@@ -7,8 +7,8 @@ import time
 start = time.time()
 
 #Define Path
-model_path = './models_resnet_70/model.h5'
-model_weights_path = './models_resnet_70/weights.h5'
+model_path = './Model/model.h5'
+model_weights_path = './Model/weights.h5'
 img_size = 512
 
 #Define image 51
